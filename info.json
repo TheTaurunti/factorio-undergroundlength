@@ -1,0 +1,11 @@
+{
+  "name": "UndergroundLength",
+  "version": "1.0.0",
+  "title": "Underground Length",
+  "author": "Taurunti",
+  "contact": "thetaurunti@gmail.com",
+  "homepage": "https://github.com/TheTaurunti",
+  "factorio_version": "1.1",
+  "dependencies": ["base >= 1.1"],
+  "description": "Sets custom underground belt length based on belt speed. Pipe lengths set to single value. Customizable."
+}
