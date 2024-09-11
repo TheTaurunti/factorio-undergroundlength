@@ -1,4 +1,9 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.0.2
+Date: 2024-09-1
+  Features:
+    - Fixed crash with Warptorio2. Fluid boxes are weird, pipes should have their length set like normal still.
+---------------------------------------------------------------------------------------------------
 Version: 1.0.1
 Date: 2024-01-29
   Features:
